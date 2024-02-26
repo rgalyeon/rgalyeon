@@ -1,5 +1,5 @@
 # Hi 👋, I'm rgalyeon
-[![Views](https://komarev.com/ghpvc/?username=rgalyeon&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rgalyeon)
+[![Views](https://komarev.com/ghpvc/?username=rgalyeon&label=Profile%20views&color=202055&style=for-the-badge)](https://github.com/rgalyeon)
 
 I'm a python-developer, Data Scientist, and Daytrader of the Core Team at <a href="https://t.me/tradium">Tradium</a>. I create secure software that facilitates working with a **LARGE** number of crypto wallets in L1-L2 networks. Currently working on such projects as zkSync, Scroll and Base. I will be glad to get any feedback on software.
 
