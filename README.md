@@ -13,6 +13,7 @@ I'm a python-developer, Data Scientist, and Daytrader of the Core Team at <a hre
 [![zkSync_V2](https://github-readme-stats.vercel.app/api/pin/?username=rgalyeon&repo=zkSync_V2&theme=outrun)](https://github.com/rgalyeon/zkSync_V2)
 
 [![Starrynift](https://github-readme-stats.vercel.app/api/pin/?username=rgalyeon&repo=Starrynift&theme=outrun)](https://github.com/rgalyeon/Starrynift) &nbsp; &nbsp;
+[![Layerless](https://github-readme-stats.vercel.app/api/pin/?username=rgalyeon&repo=Layerless&theme=outrun)](https://github.com/rgalyeon/Layerless) 
 
 ### 🌐 Contacts
 [![My tg](https://img.shields.io/badge/-rgalyeon-090909?style=for-the-badge&logo=telegram)](https://t.me/rgalyeon)
