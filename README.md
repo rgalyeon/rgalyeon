@@ -16,5 +16,5 @@ I'm a python-developer, Data Scientist, and Daytrader of the Core Team at <a hre
 [![Layerless](https://github-readme-stats.vercel.app/api/pin/?username=rgalyeon&repo=Layerless&theme=outrun&width=500)](https://github.com/rgalyeon/Layerless) 
 
 ### 🌐 Contacts
-[![My tg](https://img.shields.io/badge/-rgalyeon-090909?style=for-the-badge&logo=telegram)](https://t.me/rgalyeon)
+[![My tg](https://img.shields.io/badge/-channel-090909?style=for-the-badge&logo=telegram)](https://t.me/block_nine)
 [![Tradium](https://img.shields.io/badge/-Tradium-090909?style=for-the-badge&logo=telegram)](https://t.me/tradium)
